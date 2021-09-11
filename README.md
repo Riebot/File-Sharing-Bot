@@ -4,11 +4,6 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/ZauteKm">
-    <img src="https://github.com/ZauteKm/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
-  </a><br>
-    <img src="https://github.com/ZauteKm/String-Session-Generator/blob/main/resources/madebyzautekm-badge.svg" width="250">
-  </a><br>
   <a href="https://github.com/ZauteKm/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/ZauteKm/File-Sharing-Bot?style=social">
   </a>
