@@ -7,13 +7,6 @@
   <a href="https://t.me/TGBotsProJect">
     <img src="https://github.com/ZauteKm/String-Session-Generator/blob/main/resources/madebyzautekm-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/ZauteKm">
-    &nbsp;<img src="https://img.shields.io/badge/Zaute%20%F0%9D%95%8F%20KM-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <a href="https://t.me/ZauteBot">
-    &nbsp;<img src="https://img.shields.io/badge/Zaute%20%F0%9D%95%8F%20Km-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <br>
   <a href="https://github.com/ZauteKm/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/ZauteKm/File-Sharing-Bot?style=social">
   </a>
