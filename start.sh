@@ -4,4 +4,4 @@ cd /File-Sharing-Bot
 echo "[INFO] - INSTALLING REQUIREMENTS ..."
 pip3 install -r requirements.txt
 echo "[INFO] - STARTING FILE-SHARING-BOT ..."
-python3 main.py
+python3 bot.py
