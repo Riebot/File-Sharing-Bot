@@ -41,6 +41,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/ZauteKm/File-Sharing-Bot#start_message'>fillings</a>
+* `FORCE_SUB_MESSAGE` Optional: Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 
 ### Extra Variables
@@ -76,16 +77,17 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
 ````
+---
 
 ### Admin Commands
 
 ```
-/start - Start the bot or get posts.
-/batch - Create link for more than one posts.
-/genlink - Create link for one post.
-
+/start - start the bot or get posts
+/batch - create link for more than one posts
+/genlink - create link for one post
+/users - view bot statistics
+/broadcast - broadcast any messages to bot users
 ```
-
 ---
 
 ## Support   
