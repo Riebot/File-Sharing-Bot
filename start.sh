@@ -1,7 +1,6 @@
-echo "[INFO] - FETCHING UPSTREAM REPO ..."
+echo "Cloning Repo...."
 git clone https://github.com/ZauteKm/File-Sharing-Bot.git /File-Sharing-Bot
 cd /File-Sharing-Bot
-echo "[INFO] - INSTALLING REQUIREMENTS ..."
 pip3 install -r requirements.txt
-echo "[INFO] - STARTING FILE-SHARING-BOT ..."
+echo "Starting Bot...."
 python3 bot.py
