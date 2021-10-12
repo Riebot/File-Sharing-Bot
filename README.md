@@ -82,10 +82,9 @@ python3 main.py
 ### Admin Commands
 
 ```
-/start - start the bot or get posts
-/batch - create link for more than one posts
-/genlink - create link for one post
-/stats - view bot statistics
+/start - Start the bot or get posts.
+/batch - Create link for more than one posts.
+/genlink - Create link for one post.
 ```
 ---
 
