@@ -75,6 +75,9 @@ async def start_command(client: Client, message: Message):
                 [
                     InlineKeyboardButton("👥 Group", url = "https://t.me/joinchat/prE6ALN6x2hkY2E1"),
                     InlineKeyboardButton("Channel 📢", url = "https://t.me/mizotginfotel")
+                ],
+                [
+                    InlineKeyboardButton("[💻 Developer] @ZauteKm 👨‍💻", url = "https://t.me/zautekm")
                 ]
             ]
         )
