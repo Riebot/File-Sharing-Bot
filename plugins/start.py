@@ -77,7 +77,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("Channel 📢", url = "https://t.me/mizotginfotel")
                 ],
                 [
-                    InlineKeyboardButton("[💻 Developer] @ZauteKm 👨‍💻", url = "https://t.me/zautekm")
+                    InlineKeyboardButton("[ 💻 Developer ] @ZauteKm 👨‍💻", url = "https://t.me/zautekm")
                 ]
             ]
         )
