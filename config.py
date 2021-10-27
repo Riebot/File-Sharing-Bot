@@ -38,7 +38,7 @@ except ValueError:
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>Khawngaihin @mizotginfotel Channel hi Join phawt la, Chuan min hmang thei ang.</b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>File Name:</b> <code>{filename}</code>\n\n<b>Join <a href='https://t.me/joinchat/prE6ALN6x2hkY2E1'>ZoSeries Studio</a> for more useful bots</b>\n\n<b>Others:</b> {perviouscaption}")
 
 #Set true if you want Disable your Channel Posts Share button
 if os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True':
