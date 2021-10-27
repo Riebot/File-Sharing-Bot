@@ -1,5 +1,4 @@
-#(©)ZauteKm
-
+#(©) ZauteKm
 import os
 import asyncio
 from pyrogram import Client, filters, __version__
@@ -184,6 +183,7 @@ async def send_text(client: Bot, message: Message):
             total += 1
         
         status = f"""<b><u>Broadcast Completed</u>
+
 Total Users: <code>{total}</code>
 Successful: <code>{successful}</code>
 Blocked Users: <code>{blocked}</code>
