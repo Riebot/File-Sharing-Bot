@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/ZauteKm/File-Sharing-Bot-1.git /File-Sharing-Bot-1
-cd /File-Sharing-Bot-1
+git clone https://github.com/ZauteKm/File-Sharing-Bot.git /File-Sharing-Bot
+cd /File-Sharing-Bot
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 main.py
