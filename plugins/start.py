@@ -83,7 +83,11 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("Channel 📢", url = "https://t.me/mizotginfotel")
                 ],
                 [
-                    InlineKeyboardButton("🔎 Search Here Series 🔍", switch_inline_query_current_chat = '')
+                    InlineKeyboardButton("Search Here", switch_inline_query_current_chat = ''),
+                    InlineKeyboardButton("Go Inline", switch_inline_query = '')
+                ],
+                [
+                    InlineKeyboardButton("Close 🔒", callback_data = "close")
                 ]
             ]
         )
