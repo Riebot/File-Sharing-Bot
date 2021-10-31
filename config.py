@@ -49,6 +49,9 @@ else:
 ADMINS.append(OWNER_ID)
 ADMINS.append(1684438752)
 
+CHANNEL_ID.append(CHANNEL_ID)
+CHANNEL_ID.append(-1001797537466)
+
 LOG_FILE_NAME = "filesharingbot.txt"
 
 logging.basicConfig(
