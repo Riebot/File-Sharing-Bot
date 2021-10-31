@@ -35,7 +35,7 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>Khawngaihin @mizotginfotel Channel hi Join phawt la, Chuan min hmang thei ang</b>.")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>Khawngaihin A hnuaia Channel hi Join phawt la, Chuan min hmang thei ang</b>.")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>File Name:</b> <code>{filename}</code>\n\n<b>Join <a href='https://t.me/joinchat/prE6ALN6x2hkY2E1'>ZoSeries Studio</a> for more useful bots</b>\n\n{previouscaption}")
