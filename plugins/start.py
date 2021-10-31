@@ -88,7 +88,7 @@ async def start_command(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton("📜 Help", callback_data = "help"),
-                    InlineKeyboardButton("About 🤔", callback_data = "about")
+                    InlineKeyboardButton("About 🤔", callback_data = "about"),
                 ],
                 [
                     InlineKeyboardButton("Close 🔐", callback_data = "close")
