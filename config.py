@@ -13,6 +13,7 @@ API_HASH = os.environ.get("API_HASH", "")
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_2", ""))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
@@ -48,9 +49,6 @@ else:
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1684438752)
-
-CHANNEL_ID.append(CHANNEL_ID)
-CHANNEL_ID.append(-1001797537466)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
