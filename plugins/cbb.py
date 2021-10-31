@@ -33,7 +33,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "help":
         await query.message.edit_text(
-            text = f"<b>Min hmandân túr tlângpui:</b>\n\n1.1. Inline Mode hmangin i Series/Movies duh i Search thei.\n2. He <a href='https://t.me/joinchat/prE6ALN6x2hkY2E1'>Group</a> hi Join-in i Series duh hming thupui lo thawn tawp la, i hmu nghâl ang.\n\n<b>How to Get Files:</b> <a href='https://t.me/mizotginfotel/37'>Press me 🥰</a>
+            text = f"<b>Min hmandân túr tlângpui:</b>\n\n1.1. Inline Mode hmangin i Series/Movies duh i Search thei.\n2. He <a href='https://t.me/joinchat/prE6ALN6x2hkY2E1'>Group</a> hi Join-in i Series duh hming thupui lo thawn tawp la, i hmu nghâl ang.\n\n<b>How to Get Files:</b> <a href='https://t.me/mizotginfotel/37'>Press me 🥰</a>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
