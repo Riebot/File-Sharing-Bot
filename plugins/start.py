@@ -87,7 +87,11 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("Go Inline", switch_inline_query = '')
                 ],
                 [
-                    InlineKeyboardButton("Close 🔒", callback_data = "close")
+                    InlineKeyboardButton("📜 Help", callback_data = "help"),
+                    InlineKeyboardButton("About 🤔", callback_data = "about")
+                ],
+                [
+                    InlineKeyboardButton("Close 🔐", callback_data = "close")
                 ]
             ]
         )
